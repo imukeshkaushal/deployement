@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: npm i
       - name: build project
-        run: npm run build
+        run: npm next build && next export
       - name: Upload artifact in order to deploy
         uses: actions/upload-artifact@v2
         with:
