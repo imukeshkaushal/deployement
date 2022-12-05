@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://github.com/imukeshkaushal/deployement",
+  "homepage": "https://github.com/imukeshkaushal/deployement",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "framer-motion": "^7.6.18",
     "next": "13.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "vercel": "^28.7.2"
   }
 }
