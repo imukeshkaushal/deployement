@@ -22,7 +22,7 @@
     "react-dom": "18.2.0",
     "vercel": "^28.7.2"
   },
-  "cacheDirectories" : [
+  "cacheDirectories": [
     "node_modules/",
     ".next/cache/"
   ]
