@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
         </Flex>
         <Spacer/>
         <Flex>
-          <img
+          <Avatar
           
             alt="Mukesh Kaushal"
             src="https://avatars.githubusercontent.com/u/97522154?v=4"
